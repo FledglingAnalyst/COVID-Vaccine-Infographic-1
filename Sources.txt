@@ -1,0 +1,3 @@
+Adverse Vaccine Symptoms Data USA = https://vaers.hhs.gov/data/datasets.html?
+Number of vaccinations Overall USA = https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/country_data/United%20States.csv
+COVID-19 CFR = https://en.wikipedia.org/wiki/List_of_human_disease_case_fatality_rates
